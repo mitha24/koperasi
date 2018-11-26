@@ -1,0 +1,66 @@
+body{
+    background: url('gambar0.jpg');
+    left bottom: no-repeat;
+    background-size:1600px auto;
+
+}
+.wrap{
+	width: 1000px;
+	margin: 50px auto;
+	font-size: 20px;
+	color :black;
+}
+
+/*bagian header*/
+.wrap .header{
+	/*height: 50px;*/
+	padding: 10px 10px;
+	font-size: 20px;
+	margin-top: -80px;
+}
+
+.Logounej{
+  background-image: url("Logounej.png");
+  background-repeat: no-repeat;
+  height: 100px;
+  width: 100px;
+  margin-top: -7.5rem;
+  margin-left:60rem;
+}
+.LogoHome1{
+  background-image: url("Logounej.png");
+  background-repeat: no-repeat;
+  height: 100px;
+  width: 100px;
+  margin-top: -7.5rem;
+  margin-left:60rem;
+}
+
+.menu ul a{
+	padding:3px 5px;
+	font-family: Thimes new roman;
+	font-weight: 1000;
+	font-size: 20px;
+  	border-style: solid;
+    border-width: 2px;
+    background-color:#42d4f4;
+    float: left;
+    text-align: center;
+  	color:black;
+	text-transform: uppercase;
+	transition: all 0.5s ease;
+	text-decoration: none;
+} 
+
+.badan ul a{
+	padding:3px 5px;
+	display:block;
+	font-family: Thimes new roman;
+	font-weight: 1000;
+	font-height:2000;
+	font-size: 19px;
+	color:black;
+	text-transform: uppercase;
+	transition: all 0.5s ease;
+	text-decoration: none;
+}

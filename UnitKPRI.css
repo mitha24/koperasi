@@ -1,0 +1,53 @@
+body{
+    background: url('gambar0.jpg');
+    left bottom: no-repeat;
+    background-size:1600px auto;
+}
+
+.wrap{
+   width: 1000px;
+   margin: 50px auto;
+   font-size: 20px;
+   color :black;
+}
+
+.menu{
+   width: 1000px;
+   margin: 50px auto;
+   font-size: 25px;
+   color :black;
+}
+.menu2{
+   width: 100px;
+   height: 100p;
+   font-size: 15px;
+   color: #020202;
+   margin-top: 2rem;
+}
+
+.Logounej{
+  background-image: url("Logounej.png");
+  background-repeat: no-repeat;
+  height: 100px;
+  width: 100px;
+  margin-top: -7.5rem;
+  margin-left:50rem;
+}
+input[type="text"],input[type="Simpanan Pokok"]{
+    width: 1000px;
+    height: 400px;
+    margin-bottom: 80px;
+    font-size: 18px;
+    border: 1px solid black;
+    padding-left: 45px;
+}
+
+input[type="submit"]{
+    padding: 15xp 25xp;
+    background: #150;
+    color: #fff;
+    border: none;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
